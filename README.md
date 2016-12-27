@@ -8,6 +8,9 @@ It took a bit of work, but I managed to get this published to my Apache Server o
 ##Here's the live URL:
 
 http://my-heroes-angular-cli.glvconsulting.com/dashboard
-
+<p>&nbsp;</p>
 ##Here's my blog post detailing the project
 http://leroysrants.com/angular-cli-primer/
+<p>&nbsp;</p>
+##Here's the original project which used the Quickstart Heroes Tutorial - Template (which is systemJS) at Angular.io.
+https://github.com/leroyvaughan/Angular2_MyTop10Heroes
