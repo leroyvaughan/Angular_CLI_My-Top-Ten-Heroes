@@ -8,3 +8,6 @@ It took a bit of work, but I managed to get this published to my Apache Server o
 ##Here's the live URL:
 
 http://my-heroes-angular-cli.glvconsulting.com/dashboard
+
+##Here's my blog post detailing the project
+http://leroysrants.com/angular-cli-primer/
